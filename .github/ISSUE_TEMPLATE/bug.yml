@@ -1,0 +1,59 @@
+name: Bug report
+description: Report an issue of any kind with the mod
+labels: [ "bug", "invalid", "help wanted" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Bug report
+        
+        <sup>Please take the time to fill out all the details! Thanks!</sup>
+
+        We assume that you are on the latest version of the mod, so please double-check before filing a report!
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug description
+      description: Try to describe in your best words what happened
+      placeholder: The game crashed, this does not look right, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of the game are you running?
+      options:
+        - 1.63 (Hotfix)
+        - 1.63
+        - 1.62 (Hotfix)
+        - 1.61 (DLSS3)
+        - 1.61
+        - 1.6
+        - 1.52
+        - 1.51
+        - 1.5
+        - 1.31
+        - 1.3
+        - 1.23
+        - 1.22
+        - 1.21
+        - 1.2
+        - 1.12
+        - 1.11
+        - 1.1
+        - 1.06
+        - 1.05
+
+    validations:
+      required: true
