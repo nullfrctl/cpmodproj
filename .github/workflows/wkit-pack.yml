@@ -2,7 +2,7 @@ name: Pack with WolvenKit.CLI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "*" ]
   
   workflow_dispatch:
 
