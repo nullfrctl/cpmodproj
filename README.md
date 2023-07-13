@@ -1,4 +1,4 @@
-# cpmodproj
+# cpmodproj <img align="right" src="https://user-images.githubusercontent.com/99456326/253195160-df589079-e508-4c30-8bd4-f7acebc43187.svg" width="32px">
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)][cc-by-nc-sa]
 
