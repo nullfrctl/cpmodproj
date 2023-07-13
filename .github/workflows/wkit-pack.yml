@@ -33,7 +33,7 @@ jobs:
       - name: Pack using WolvenKit.CLI
         run: |
           $ARCHIVE_DIR = ".\packed\archive\pc\mod"
-          cp77tools pack -p .\source\archive\base -o $ARCHIVE_DIR
+          cp77tools pack -p .\source\archive -o $ARCHIVE_DIR
           [xml]$CONTENT = Get-Content $(Get-ChildItem -File -Filter *.cpmodproj).Name
           mv "$ARCHIVE_DIR\base.archive" "$ARCHIVE_DIR\$($CONTENT.CP77Mod.Name).archive"
           
