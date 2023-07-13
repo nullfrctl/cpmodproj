@@ -1,0 +1,49 @@
+name: Pack with WolvenKit.CLI
+
+on:
+  push:
+    branches: [ "*" ]
+  
+  workflow_dispatch:
+
+jobs:
+  pack:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          # Allow pulling LFS resources.
+          lfs: true
+          # Get submodules recursively if libraries are used in the project.
+          submodules: recursive
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+
+      - name: Setup WolvenKit.CLI
+        run: |
+          dotnet tool install --global wolvenkit.cli
+          $env:PATH += ";$HOME\.dotnet\tools"
+
+      - name: Create directory structure
+        run: mkdir .\packed\archive\pc\mod -ea 0
+
+      - name: Pack using WolvenKit.CLI
+        run: |
+          $ARCHIVE_DIR = ".\packed\archive\pc\mod"
+          cp77tools pack -p .\source\archive\base -o $ARCHIVE_DIR
+          [xml]$CONTENT = Get-Content $(Get-ChildItem -File -Filter *.cpmodproj).Name
+          mv "$ARCHIVE_DIR\base.archive" "$ARCHIVE_DIR\$($CONTENT.CP77Mod.Name).archive"
+          
+      - name: Add resources
+        run: |
+          cp -Recurse .\source\resources\* .\packed\
+      
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: mod
+          path: ./packed
+          if-no-files-found: error
