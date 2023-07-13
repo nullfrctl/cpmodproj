@@ -5,7 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please take the time to fill out all the details! Thanks!
+        ### Feature request
+        
+        <sup>Please take the time to fill out all the details! Thanks!</sup>
 
   - type: textarea
     id: feature-description
