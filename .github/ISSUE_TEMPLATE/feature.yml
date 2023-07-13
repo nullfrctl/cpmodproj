@@ -1,0 +1,17 @@
+name: Feature request
+description: Request for a feature to be added to the mod
+labels: [ "enhancement" ]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please take the time to fill out all the details! Thanks!
+
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Feature description
+      description: Try to describe in your best words what the feature would entail and do.
+      placeholder: Add flying cars, oh wait...
+    validations:
+      required: true
