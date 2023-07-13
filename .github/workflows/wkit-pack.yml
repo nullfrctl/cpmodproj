@@ -37,7 +37,7 @@ jobs:
           $ARCHIVE_DIR = ".\packed\archive\pc\mod"
           cp77tools pack -p .\source\archive -o $ARCHIVE_DIR
           [xml]$CONTENT = Get-Content $(Get-ChildItem -File -Filter *.cpmodproj).Name
-          mv "$ARCHIVE_DIR\base.archive" "$ARCHIVE_DIR\$($CONTENT.CP77Mod.Name).archive"
+          mv "$ARCHIVE_DIR\archive.archive" "$ARCHIVE_DIR\$($CONTENT.CP77Mod.Name).archive"
           
       - name: Add resources
         run: |
