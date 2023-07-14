@@ -19,6 +19,7 @@ In order to match the [_CDPR Fan Content Guidelines_](https://www.cdprojektred.c
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED.
 
 [![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)][cc-by-nc-sa]
+[![REDmodding](https://github.com/nullfrctl/Realcolorr/assets/99456326/651333fa-24df-4c29-b9b5-9ceab4d59867)](https://redmodding.org/)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [wolvenkit]: https://github.com/WolvenKit/WolvenKit
