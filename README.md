@@ -14,7 +14,7 @@ Once that's all done, you can open the file in [_WolvenKit_][wolvenkit] and star
 
 ## License<sup>[^1]</sup>
 
-In order to match the [_CDPR Fan Content Guidelines_](https://www.cdprojektred.com/en/fan-content), this repository uses the [CC BY-NC-SA 4.0][cc-by-nc-sa] license, along with this notification:
+In order to match the [_CDPR Fan Content Guidelines_](https://www.cdprojektred.com/en/fan-content), this repository uses the [_CC BY-NC-SA 4.0_][cc-by-nc-sa] license, along with this notification:
 
 > This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED.
 
