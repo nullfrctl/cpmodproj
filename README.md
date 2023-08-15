@@ -14,13 +14,11 @@ After that, make sure to rename the **[defacto.cpmodproj](defacto.cpmodproj)** f
 
 Once that's all done, you can open the file in **[WolvenKit]** and start making your mod! **Remember to create commits frequently**.
 
-## License <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">
+## License [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
 **[cpmodproj]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA-4.0]**
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
-
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)][CC BY-NC-SA-4.0]
 
 [CC BY-NC-SA-4.0]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [WolvenKit]: https://github.com/WolvenKit/WolvenKit
