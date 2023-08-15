@@ -46,7 +46,7 @@ Either README.md file has in-depth explanations on how to edit them to fit you.
   - **nullfractal (Santiago Velasquez)** <sub>[<img src="https://images.nexusmods.com/favicons/ReskinOrange/favicon-230x230.png" height="16px">](https://www.nexusmods.com/cyberpunk2077/users/75442863) [<img src="https://github.com/fluidicon.png" height="16px">](https://github.com/nullfrctl)</sub>  
     <sup>for making **[cpmodproj]**&mdash;**[xtaltha]**</sup>
 
-## License <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
+## License [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
 **[cpmodproj]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
 
