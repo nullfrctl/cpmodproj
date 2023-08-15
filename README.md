@@ -35,6 +35,10 @@ Either README.md file has in-depth explanations on how to edit them to fit you.
 - This is totally personal preference, but try to make your headings capitalized in only sentence-case. "Choosing your license" looks and feels more natural than "Choosing Your License".
 - Make sure to only have one top level heading. You should have no more than the title (e.g. `# cpmodproj`) as a top level heading.
 
+#### Images
+
+- They should be under `<img>` tags and at most 480px wide.
+
 #### Credits
 
 - When you write credits under the **_License and credits_** heading, it should be under the **_Credits_** subheading.
