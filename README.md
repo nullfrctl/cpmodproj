@@ -20,19 +20,34 @@ There are many ways modders can use [cpmodproj], but, this focuses on the main w
 
 After you've chosen your license&mdash;either ShareAlike (option 1) or NoDerivatives (option 2)&mdash;edit the README.md you chose to fit your mod.
 
+Either README.md file has in-depth explanations on how to edit them to fit you.
+
 ### Formatting
 
-## License <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg">
+#### Links
+
+- Try only inserting text in brackets for links. For example, instead of writing `[WolvenKit](https://github.com/WolvenKit/WolvenKit)`, try to simply write `[WolvenKit]`, then at the end of the document, write `[WolvenKit]: https://github.com/WolvenKit/WolvenKit`.
+- Bold every link. This is very convenient when paired with the first rule&mdash;you can simply write `**[WolvenKit]**` to get a link according to the format.
+
+#### Headings
+
+- If the headings can have some contextual images, try to add them as `<img>` tags and `align="right"` them. You can see this effect with the top level heading of, and the license heading below.
+- This is totally personal preference, but try to make your headings capitalized in only sentence-case. "Choosing your license" looks and feels more natural than "Choosing Your License".
+- Make sure to only have one top level heading. You should have no more than the title (e.g. `# cpmodproj`) as a top level heading.
+
+#### Credits
+
+- When you write credits under the **_License and credits_** heading, it should be under the **_Credits_** subheading.
+- Furthermore, format it as a list, having the modder's name without a link. After the plain text name, add hyperlinked icons for where you can find them. (example below)
+  - **nullfractal (Santiago Velasquez)** <sub>[<img src="https://images.nexusmods.com/favicons/ReskinOrange/favicon-230x230.png" height="16px">](https://www.nexusmods.com/cyberpunk2077/users/75442863) [<img src="https://github.com/fluidicon.png" height="16px">](https://github.com/nullfrctl)</sub>  
+    <sup>for making **[cpmodproj]**&mdash;**[xtaltha]**</sup>
+
+## License <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
 
 **[cpmodproj]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
-<!-- This is a bit messy -->
-
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)][CC BY-NC-SA 4.0]
-
 [CC BY-NC-SA 4.0]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[WolvenKit]: https://github.com/WolvenKit/WolvenKit
 [xtaltha]: https://github.com/xtaltha
 [cpmodproj]: https://github.com/xtaltha/cpmodproj
