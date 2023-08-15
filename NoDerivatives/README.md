@@ -51,7 +51,7 @@ If it doesn't, please open an issue in the _Issues_ tab&mdash;as well as if you 
 
 Please don't share edited versions of defacto&mdash;if you do, the source of any assets is available in this very repository&mdash;as such, it will be obvious which files you used. It's okay to modify for personal use, but **do not** redistribute modified versions without my explicit permission.
 
-## License and credits <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
+## License and credits [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-ND 4.0]
 
 <sub>_make absolutely sure to change the links below, changing \[defacto\] to your mod name and link, and \[xtaltha\] to your own GitHub account. **other than that, leave this section intact&mdash;except for removing this!**_</sub>
 
