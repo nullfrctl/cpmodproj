@@ -21,7 +21,10 @@ Created to serve the modding community and allow open-source REDmodding to expan
 
 ### Screenshots
 
-<sup>_attach your cool, totally related, very descriptive screenshots here._</sup>
+<sup>_attach your cool, totally related, very descriptive screenshots here._
+
+<img width=480px src="https://github.com/xtaltha/cpmodproj/assets/99456326/093055d7-0de0-4ec7-93ac-57a3c4f81051">
+<img width=480px src="https://github.com/xtaltha/cpmodproj/assets/99456326/51f5b5e5-c4fc-46e4-ada9-9573a79b7534">
 
 ### External links
 
