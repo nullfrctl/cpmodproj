@@ -49,7 +49,7 @@ To build defacto, you just need to open the defacto.cpmodproj file in **[WolvenK
 <sub>_if you really don't want users to report issues on GitHub, you can get rid of this part and turn off the Issues tab._</sub>  
 If it doesn't, please open an issue in the _Issues_ tab&mdash;as well as if you can detect any invalid stuff in the source.
 
-## License and credits <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">
+## License and credits [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
 <sub>_make absolutely sure to change the links below, changing \[defacto\] to your mod name and link, and \[xtaltha\] to your own GitHub account. **other than that, leave this section intact&mdash;except for removing this!**_</sub>
 
