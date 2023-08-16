@@ -11,6 +11,9 @@
 <sub>_put a brief description here&mdash;if you have a nexus brief description you can just copy it here_</sub>  
 defacto does absolutely nothing.
 
+<sub>_keep this intact, it's a good way to notify a user as to what they can and can't do with your mod._</sub>  
+<sub>**[You can modify this mod as long as I am credited and it's for non-commercial purposes](#license)**</sub>
+
 ## Overview
 
 <sub>_here you should change everything, including the name xtaltha, etc., to fit a descriptive overview of the your mod. **Don't let this placeholder text influence you.**_</sub>
@@ -51,9 +54,13 @@ If it doesn't, please open an issue in the _Issues_ tab&mdash;as well as if you 
 
 ## License and credits [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
-<sub>_make absolutely sure to change the links below, changing \[defacto\] to your mod name and link, and \[xtaltha\] to your own GitHub account. **other than that, leave this section intact&mdash;except for removing this!**_</sub>
+<sub>_make absolutely sure to change the links below, changing \[defacto\] to your mod name and link, and \[xtaltha\] to your own GitHub account (according to the main **[README.md](../README.md)**). **other than that, leave this section intact&mdash;except for removing this!**_</sub>
 
-**[defacto]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
+### License
+
+**[defacto]** &copy; 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
+
+> This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. 
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
