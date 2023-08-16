@@ -60,7 +60,7 @@ If it doesn't, please open an issue in the _Issues_ tab&mdash;as well as if you 
 
 **[defacto]** &copy; 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
 
-> This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. 
+> This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
