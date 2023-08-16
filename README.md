@@ -39,6 +39,16 @@ Either README.md file has in-depth explanations on how to edit them to fit you.
 
 - They should be under `<img>` tags and at most 480px wide.
 
+#### Special characters
+
+- Use HTML entities rather than Unicode characters or imitations of them (e.g. &mdash; instead of --; and &hellip; instead of ...) whenever possible.
+- The em-dash (&mdash;) and en-dash (&ndash;)&mdash;which shall not be confused with a hyphen-minus (-)&mdash;should be used when it fits, as well as without any spacing.
+- Examples:
+  + **Right**  
+    _Jane&mdash;however&mdash;did something no-one else thought they could do: become a Nobel Prize&ndash;winning scientist&hellip;_
+  + **Wrong**  
+    _Jane -- however -- did something no-one else thought they could do: become a Nobel Prize-winning scientist..._
+
 #### Credits
 
 - When you write credits under the **_License and credits_** heading, it should be under the **_Credits_** subheading.
