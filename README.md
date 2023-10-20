@@ -8,14 +8,14 @@ Numerous templates for different options to format and license your works based 
 
 ## Usage
 
-There are many ways modders can use [cpmodproj], but, this focuses on the main ways that modders license their works:
+There are many ways modders can use **[cpmodproj]**, but, this focuses on the main ways that modders license their works:
 
 1. allowing derivative works as long as you (the creator) is credited;
 1. entirely disallowing any derivative works&mdash;unless given permission from you (&mdash;and only from you).
 
 ### Choosing your license
 
-1. If you want your mod to be shared in a non-commercial manner, but allowing derivative works (e.g. unpacking and/or modifying source files) to be made; copy **[LICENSE.md](ShareAlike/LICENSE.md)** as well as **[README.md](ShareAlike/README.md)** from the **[ShareAlike](ShareAlike/)** folder.
+1. If you want your mod to be shared in a non-commercial manner, but allowing derivative works (e.g. unpacking and/or modifying source files) to be made as long as credit is given; copy **[LICENSE.md](ShareAlike/LICENSE.md)** as well as **[README.md](ShareAlike/README.md)** from the **[ShareAlike](ShareAlike/)** folder.
 1. Subsequently, if you want your mod to be shared in a non-commercial manner, but explicitly **disallowing** derivative works of any kind&mdash;except if they had explicit permission from you (which should entail proper credit)&mdash;copy **[LICENSE.md](NoDerivatives/LICENSE.md)** as well as **[README.md](NoDerivatives/README.md)** from the **[NoDerivatives](NoDerivatives/)** folder.
 
 After you've chosen your license&mdash;either ShareAlike (option 1) or NoDerivatives (option 2)&mdash;edit the README.md you chose to fit your mod.
